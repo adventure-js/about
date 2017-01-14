@@ -9,3 +9,7 @@ Join the conversation [in the issues](https://github.com/adventure-js/about/issu
 ## Past adventures
 
 - [ArcticJS](http://arcticjs.club/) in Svalbard, 2016.
+
+## Swag
+
+[Stickers](http://www.stickermule.com/marketplace/10472-adventurejs?utm_swu=6453)
